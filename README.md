@@ -1,1 +1,1 @@
-# rust-nats
+# rust-nats-server
